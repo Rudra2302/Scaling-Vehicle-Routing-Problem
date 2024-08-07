@@ -1,2 +1,2 @@
 # Scaling-Vehicle-Routing-Problem
-A parallel approach to the NP-Hard graph problem involving the creating of an MST and finding the most efficient transversal
+A parallel approach to the NP-Hard graph problem involving the creating of an MST and finding the most efficient transversal. I am currently working on this project with Prof. Rupesh Nasre of CSE Department at IIT-Madras. This Repo will be updated as soon as the code is complete and tested. For now, you can check the code on Rajesh Pandian's [GitHub](https://github.com/mrprajesh/parMDS).
